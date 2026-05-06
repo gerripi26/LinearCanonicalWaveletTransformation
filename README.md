@@ -1,6 +1,6 @@
  **Project status:** Active development 
 
-##Relevant literature
+## Relevant literature
 
 Linear Canonical Wavelet Transform: https://arxiv.org/pdf/2202.12244
 
